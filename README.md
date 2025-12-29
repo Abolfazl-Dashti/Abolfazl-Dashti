@@ -4,7 +4,7 @@
 <h1 align="center">Hi 👋, I'm Abolfazl</h1>
 <h3 align="center">A Passionate & Creative Game Developer From Iran</h3>
 
-<img align="right" alt="developer-gif" width="400" src="assets/developer.gif"/>
+<img align="right" alt="developer-gif" width="380" src="assets/developer.gif"/>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abolfazl-dashti&label=Profile%20views&color=0e75b6&style=flat" alt="abolfazl-dashti" /> </p>
 
