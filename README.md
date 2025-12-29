@@ -1,3 +1,6 @@
+<p align="center">
+  <img src="https://github.com/Abolfazl-Dashti/Abolfazl-Dashti/blob/main/assets/gitBanner.jpg" width="800" alt="logo"/>
+</p>
 <h1 align="center">Hi 👋, I'm Abolfazl</h1>
 <h3 align="center">A Passionate & Creative Game Developer From Iran</h3>
 
