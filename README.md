@@ -12,8 +12,9 @@
 
 - 👯 Recent project [2D Casual mobile game](https://github.com/MadGlitchStudio/level-devil.git)
 
-- 🎮 My personal projects [2D Platformer game](https://github.com/Abolfazl-Dashti/Flappy_Game_2D.git)
-- [2D Platformer gmae inspired by "Red Ball 4"](https://github.com/Abolfazl-Dashti/Inspired-Project.git)
+- 🎮 My personal projects:
+  - [2D Platformer game](https://github.com/Abolfazl-Dashti/Flappy_Game_2D.git)
+  - [2D Platformer game inspired by "Red Ball 4"](https://github.com/Abolfazl-Dashti/Inspired-Project.git)
 
 - 💬 Ask me about **Unity 2D gameplay programming, C# for games**
 
