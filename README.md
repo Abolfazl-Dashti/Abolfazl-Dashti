@@ -15,6 +15,10 @@
   The project combines simple controls, engaging progression, and mobile-friendly gameplay design.
 </p>
 
+<p align="left">
+  🔗 Studio: <a href="https://github.com/BlackHorseStudio">Black Horse</a>
+</p>
+
 - 🌱 I’m currently learning **csharp, Unity**
 
 - 👯 Recent project [2D Casual mobile game](https://github.com/MadGlitchStudio/level-devil.git)
