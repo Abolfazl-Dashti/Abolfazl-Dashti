@@ -8,6 +8,13 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abolfazl-dashti&label=Profile%20views&color=0e75b6&style=flat" alt="abolfazl-dashti" /> </p>
 
+<h3 align="left">Studio Project:</h3>
+
+<p align="left">
+  I’m currently building a <b>private Hybrid-Casual mobile game</b> with my studio team.
+  The project combines simple controls, engaging progression, and mobile-friendly gameplay design.
+</p>
+
 - 🌱 I’m currently learning **csharp, Unity**
 
 - 👯 Recent project [2D Casual mobile game](https://github.com/MadGlitchStudio/level-devil.git)
